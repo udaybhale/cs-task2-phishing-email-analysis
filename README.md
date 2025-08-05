@@ -8,7 +8,7 @@ This repository contains an in-depth analysis of a phishing email, including:
 - Summary of phishing red flags
 
 ## 📂 Files
-- `report.pdf` – Full report with all findings
+- `Phishing_Email_Analysis_Report.pdf` – Full report with all findings
 - `sample-email.txt` – Raw text of the phishing email
 - `header-analysis.png` – Screenshot of online header check
 - `links-analysis.md` – Detailed URL analysis
